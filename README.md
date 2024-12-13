@@ -42,7 +42,7 @@ Ce guide vous accompagne dans la mise en place de **GLPI** pour optimiser ces t�
 - **Serveur Web** : Apache, Nginx  
 - **Base de Données** : MySQL/MariaDB  
 - **Langage** : PHP 7.x ou supérieur  
-- **Système d’Exploitation** : Linux (Ubuntu, CentOS)  
+- **Système d’Exploitation** : Linux Ubuntu  
 
 ### **Extensions PHP Requises**
 
