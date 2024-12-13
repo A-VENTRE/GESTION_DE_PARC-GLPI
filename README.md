@@ -142,7 +142,7 @@ Ce guide vous accompagne dans la mise en place de **GLPI** pour optimiser ces t�
 
 ## ✍️ **Auteur**
 
-**Eloham Caron**  
+**Adrien VENTRE**  
 🗓 13 Décembre 2024  
 
 ---
