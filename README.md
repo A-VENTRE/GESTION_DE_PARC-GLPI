@@ -146,5 +146,3 @@ Ce guide vous accompagne dans la mise en place de **GLPI** pour optimiser ces t�
 🗓 13 Décembre 2024  
 
 ---
-
-N’hésitez pas à apporter des suggestions ou modifications pour améliorer ce guide !
