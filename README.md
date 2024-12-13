@@ -22,24 +22,6 @@ Cet outil est destiné aux administrateurs réseau et responsables IT souhaitant
 
 ---
 
-## 📖 **Table des Matières**
-
-1. [Introduction](#introduction)  
-2. [Prérequis](#prerequis)  
-3. [Installation de GLPI](#installation-de-glpi)  
-4. [Configuration Initiale](#configuration-initiale)  
-5. [Fonctionnalités de GLPI](#fonctionnalites-de-glpi)  
-6. [Gestion des Utilisateurs](#gestion-des-utilisateurs)  
-7. [Intégration LDAP](#integration-ldap)  
-8. [Gestion des Tickets d’Incident](#gestion-des-tickets-dincident)  
-9. [Gestion des Fournisseurs et Budgets](#gestion-des-fournisseurs-et-budgets)  
-10. [Sécurité et Bonnes Pratiques](#securite-et-bonnes-pratiques)  
-11. [Structure du Repository](#structure-du-repository)  
-12. [Ressources Supplémentaires](#ressources-supplementaires)  
-13. [Auteur](#auteur)  
-
----
-
 ## 💡 **Introduction**
 
 La gestion d’un parc informatique requiert des outils performants pour centraliser et automatiser les opérations. **GLPI** est une solution open-source permettant :
